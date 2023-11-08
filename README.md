@@ -1,3 +1,8 @@
+Shows the current weather status of searched location
+
+https://damon6291.github.io/Weather-React/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
